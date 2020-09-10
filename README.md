@@ -28,7 +28,7 @@ In this case the name of the the JAR artifact will be 'image-compression-1.0-SNA
 
 9) Change Handler Field to:
 ```
-Index::handleRequest
+com.compress.Index::handleRequest
 ```
 
 10) Increase Memory and Timeout Limit (otherwise function will timeout)
