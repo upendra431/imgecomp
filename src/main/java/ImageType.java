@@ -1,4 +1,4 @@
-
+package com.compress;
 public enum ImageType {
 
     PNG ("png"),
